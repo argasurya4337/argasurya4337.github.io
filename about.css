@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.paidz{
+    display: flex;
+}
+.papaidz{
+    display: flex;
+    font-size: 40px;
+    padding: 14px;
+}
+body{
+    background-image: url(https://images.wallpaperscraft.com/image/single/moon_tree_starry_sky_132139_1280x720.jpg);
+    background-size: cover;
+}
+
+nav{
+    display: flex;
+    margin-right: 100px;
+}
+
+nav li{
+    list-style: none;
+    margin-left: 40px;
+    padding: 30px 20px;
+    justify-content: space-between;
+    color: aquamarine;
+}
+nav ul{
+    display: flex;
+}
+
+nav li:hover{
+    color: aqua;
+}
+
+header{
+    height: 80px;
+    width: 100%;
+    color: white;
+}
+
+.Argi {
+    margin-top: 100px;
+    margin-left: 500px;
+    border: 1px solid lightskyblue;
+    width: 400px;
+    height: 200px;
+    padding-left: 50px;
+    box-shadow: 10px 10px 7px;
+    color: blue;
+    font-size: 20px;
+}
+.Argi p{
+    color: yellow;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    background: transparent;
+}
+.Argo{
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 1px solid lightskyblue;
+    width: 400px;
+    height: 200px;
+    padding-left: 50px;
+    box-shadow: 10px 10px 7px;
+    color: blue;
+    font-size: 20px;
+}
+.Argo p{
+    color: yellow;
+}
+.Argu{
+    margin-top:-200px ;
+    margin-left: 900px;
+    border: 1px solid lightskyblue;
+    width: 400px;
+    height: 200px;
+    padding-left: 50px;
+    box-shadow: 10px 10px 7px;
+    color: blue;
+    font-size: 20px;
+}
+.Argu p{
+    color: yellow;
+}

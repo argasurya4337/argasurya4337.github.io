@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.paidz{
+    display: flex;
+}
+.papaidz{
+    font-size: 40px;
+    padding: 14px;
+}
+body{
+   background-image: url(https://images.wallpaperscraft.com/image/single/moon_tree_starry_sky_132139_1280x720.jpg);
+   background-size: cover;
+}
+
+nav{
+    display: flex;
+    margin-right: 100px;
+}
+
+nav li{
+    list-style: none;
+    margin-left: 40px;
+    padding: 30px 20px;
+    justify-content: space-between;
+    color: aquamarine;
+}
+nav ul{
+    display: flex;
+}
+
+nav li:hover{
+    color: aqua;
+}
+
+header{
+    height: 80px;
+    width: 100%;
+    color: white;
+}
+
+.Argi{
+    color: blue;
+    font-size: 50px;
+    padding-left: 40px;
+}
+
+.Argi p{
+    color: yellow;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.Argi h1{
+    font-family: 'Vina Sans', sans-serif;
+}
+
+.Argi {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    background: transparent;
+}
